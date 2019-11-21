@@ -1,0 +1,13 @@
+C:\Users\nesto\OneDrive\Escritorio\desmadre\practicas\tercer periodo\practica10\practica10\practica10\bin\Debug\practica10.exe.config
+C:\Users\nesto\OneDrive\Escritorio\desmadre\practicas\tercer periodo\practica10\practica10\practica10\bin\Debug\practica10.exe
+C:\Users\nesto\OneDrive\Escritorio\desmadre\practicas\tercer periodo\practica10\practica10\practica10\bin\Debug\practica10.pdb
+C:\Users\nesto\OneDrive\Escritorio\desmadre\practicas\tercer periodo\practica10\practica10\practica10\obj\Debug\practica10.csprojAssemblyReference.cache
+C:\Users\nesto\OneDrive\Escritorio\desmadre\practicas\tercer periodo\practica10\practica10\practica10\obj\Debug\practica10.csproj.CoreCompileInputs.cache
+C:\Users\nesto\OneDrive\Escritorio\desmadre\practicas\tercer periodo\practica10\practica10\practica10\obj\Debug\practica10.exe
+C:\Users\nesto\OneDrive\Escritorio\desmadre\practicas\tercer periodo\practica10\practica10\practica10\obj\Debug\practica10.pdb
+C:\Users\nesto\OneDrive\Escritorio\nose\practicas\tercer periodo\practica10\practica10\practica10\bin\Debug\practica10.exe.config
+C:\Users\nesto\OneDrive\Escritorio\nose\practicas\tercer periodo\practica10\practica10\practica10\bin\Debug\practica10.exe
+C:\Users\nesto\OneDrive\Escritorio\nose\practicas\tercer periodo\practica10\practica10\practica10\bin\Debug\practica10.pdb
+C:\Users\nesto\OneDrive\Escritorio\nose\practicas\tercer periodo\practica10\practica10\practica10\obj\Debug\practica10.csprojAssemblyReference.cache
+C:\Users\nesto\OneDrive\Escritorio\nose\practicas\tercer periodo\practica10\practica10\practica10\obj\Debug\practica10.exe
+C:\Users\nesto\OneDrive\Escritorio\nose\practicas\tercer periodo\practica10\practica10\practica10\obj\Debug\practica10.pdb
